@@ -8,10 +8,6 @@
 Copyright (c) 2012-2015 Naoaki Okazaki, Inui-Okazaki Laboratory.
 ```
 
-## ドキュメント
-
-* [Project Eulerについて/日本語訳](http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
-
 ## 問題と回答
 
 ### 第1章: 準備運動
