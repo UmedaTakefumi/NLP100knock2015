@@ -3,8 +3,7 @@
 言語処理100本ノックは，実践的な課題に取り組みながら，プログラミング，データ分析，研究のスキルを楽しく習得することを目指した問題集です
 
 * [OfficialWebpage](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
-* [ライセンスの表記](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
-```
+* [ライセンスの表記](http://www.cl.ecei.tohoku.ac.jp/nlp100/)```
 Copyright (c) 2012-2015 Naoaki Okazaki, Inui-Okazaki Laboratory.
 ```
 
